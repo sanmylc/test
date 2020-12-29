@@ -1,1 +1,2 @@
-pirint("hello git")
+print("hello git")
+printf("hello git")
